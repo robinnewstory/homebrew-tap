@@ -1,6 +1,6 @@
 cask "tibber-menu-bar" do
-  version "0.2.0"
-  sha256 "619dff0d5aa4b3de5ee2cad736e11805bbe4ba48991c99596f14fd797dec04db"
+  version "0.3.0"
+  sha256 "cb0072c62c9eb269a0c463422ed8c6afd435e176e03ae64d3abc7413a672f3d3"
 
   url "https://github.com/robinnewstory/tibber-menu-bar/releases/download/v#{version}/Tibber-Menu-Bar.zip"
   name "Tibber Menu Bar"
